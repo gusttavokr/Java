@@ -1,2 +1,21 @@
-# Java
-Repositório de estudos para a Linguagem Java
+<div align="center">
+  <img width="200"
+    alt="Java Logo"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    />
+  <h1>LINGUAGEM DE PROGRAMAÇÃO JAVA</h1>
+  Repositório de estudos para a Linguagem Java
+</div>
+
+## Aula 01 - Conceitos:
+**Resumindo:**
+Programação Orientada a Objetos se trata da atribuição de características programadas para cada objeto a ser usado no código-fonte.
+
+### 1. Classe
+Classe é o que define os atributos e métodos comuns que serão compartilhados por um objeto.
+
+### 2. Objeto
+É a instância de uma classe. Quando criamos uma classe e instanciamos a classe para um novo objeto.
+
+### 3. Abstração
+A abstração é o conceito que se dá para a prioridade dos atributos de um objeto. **ABSTRAIR**
