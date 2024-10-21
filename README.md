@@ -19,3 +19,14 @@ Classe é o que define os atributos e métodos comuns que serão compartilhados 
 
 ### 3. Abstração
 A abstração é o conceito que se dá para a prioridade dos atributos de um objeto. **ABSTRAIR**
+
+## Aula 02 - Modificadores de Visibilidade:
+1. "+" (Público)
+   "Todos podem visualizar"
+   A classe atual e todas as outras tem acesso aos atributos.
+3. "-" (Privado)
+   "Somente o desenvolvedor pode visualizar"
+   Somente a classe tem acesso.
+5. "#" (Protegido)
+   Somente a classe atual e suas sub-classes.
+   
