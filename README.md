@@ -23,10 +23,10 @@ A abstração é o conceito que se dá para a prioridade dos atributos de um obj
 ## Aula 02 - Modificadores de Visibilidade:
 1. "+" (Público)
    "Todos podem visualizar"
-   A classe atual e todas as outras tem acesso aos atributos.
+A classe atual e todas as outras tem acesso aos atributos.
 3. "-" (Privado)
    "Somente o desenvolvedor pode visualizar"
-   Somente a classe tem acesso.
+Somente a classe tem acesso.
 5. "#" (Protegido)
-   Somente a classe atual e suas sub-classes.
+ Somente a classe atual e suas sub-classes.
    
