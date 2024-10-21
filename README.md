@@ -26,5 +26,5 @@ A abstração é o conceito que se dá para a prioridade dos atributos de um obj
 ### 2. "-" (Privado) "Somente o desenvolvedor pode visualizar"
 <p>Somente a classe tem acesso.</p>
 ### 3. "#" (Protegido)
- <p>Somente a classe atual e suas sub-classes.</p>
+<p>Somente a classe atual e suas sub-classes.</p>
    
