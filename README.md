@@ -4,7 +4,7 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     />
   <h1>LINGUAGEM DE PROGRAMAÇÃO JAVA</h1>
-  Repositório de estudos para a Linguagem Java
+  Repositório de estudos para a Linguagem Java + Programação Orientada ao Objeto.
 </div>
 
 ## Aula 01 - Conceitos:
