@@ -33,10 +33,20 @@ A abstração é o conceito que se dá para a prioridade dos atributos de um obj
    
 ## Aula 03 - Métodos especiais
 ### 1. Método Acessores(Getters)
-Método para acessar algo sem que modifique diretamente com a classe. "obj.get(Método())"
+Método para acessar algo sem que modifique diretamente com a classe. "obj.get(Método())" Retornando apenas as informações.
+
+```
+public class Pessoa {
+      private String nome;
+
+      public String getNome() {
+          return nome;
+      }
+}
+```
 
 ### 2. Métodos Modificadores(Setters)
-Invés de mexermos diretamente no objeto para inserir os atributos, usa-se "obj.set(Método(parâmetro))" para atribuir.
+O método Setter, é usado para modificar o valor de uma variável de instância de um objeto "obj.set(Métod
 
 ### 3. Método Construtor
 Nesse método, você chama os atributos direto como parâmetros. O código principal fica mais simples ao criar objetos.
