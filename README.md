@@ -39,3 +39,4 @@ Método para acessar algo sem que modifique diretamente com a classe. "obj.get(M
 Invés de mexermos diretamente no objeto para inserir os atributos, usa-se "obj.set(Método(parâmetro))" para atribuir.
 
 ### 3. Método Construtor
+Nesse método, você chama os atributos direto como parâmetros. O código principal fica mais simples ao criar objetos.
