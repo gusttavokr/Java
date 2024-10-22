@@ -29,4 +29,13 @@ A abstração é o conceito que se dá para a prioridade dos atributos de um obj
 
 ### 3. "#" (Protegido)
 <p>Somente a classe e suas subclasses tem acesso aos atributos.</p>
+
    
+## Aula 03 - Métodos especiais
+### 1. Método Acessores(Getters)
+Método para acessar algo sem que modifique diretamente com a classe. "obj.get(Método())"
+
+### 2. Métodos Modificadores(Setters)
+Invés de mexermos diretamente no objeto para inserir os atributos, usa-se "obj.set(Método(parâmetro))" para atribuir.
+
+### 3. Método Construtor
