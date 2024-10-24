@@ -177,3 +177,4 @@ Encapsular é uma forma de manter o seu código mais seguro, proteger os dados e
 3. Reduzir efeitos colaterais;
 
 #### Interface
+É uma lista de serviços fornecidos por um componente. O que pode ser feito por uma capsula.
