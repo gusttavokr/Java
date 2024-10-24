@@ -167,3 +167,13 @@ public class Main {
 }
 
 ```
+
+## Aula 04 - Pilares da Programação Orientada ao Objeto
+
+### 1. Encapsulamento
+Encapsular é uma forma de manter o seu código mais seguro, proteger os dados e manter a integridade do objeto, evitando acesso ou modificação direta das propriedades.
+1. Tornar mudanças invisíveis; "Trocar a pilha de um controle, o controle sempre terá energia e não perceberá"
+2. Facilitar reutilização de código; "Reutilizar uma classe encapsulada"
+3. Reduzir efeitos colaterais;
+
+#### Interface
